@@ -1,0 +1,5 @@
+Cara update. 
+
+extract menjadi folder
+simpan folder di slims/template/..
+update pada menu sistem 
